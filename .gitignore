@@ -1,3 +1,4 @@
 *.png
 !dist/assets/*.png
 .playwright-cli/
+site-release*.tar.gz
